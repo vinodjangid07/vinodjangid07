@@ -14,7 +14,7 @@
 <br>
 
 <ul>
-  <li>👋 Hi, I’m Vinod Jangid ...</li>
+  <li>👋 Hi, I’m A ...</li>
   <li>👨‍💻 Frontend Developer & ...</li>
   <li>Digital Concept Artist ...</li>
   <li>💞️ I’m looking for collaborations and making products ...</li>
