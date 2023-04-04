@@ -1,12 +1,18 @@
+
+<img src="https://user-images.githubusercontent.com/86096184/229715500-af59bb7f-0952-4a11-83c8-8ca3efd6ea61.png" alt="">
+🆆🅴🅻🅲🅾🅼🅴
 <h1>About Me</h1>
 
-- 👋 Hi, I’m Vinod Jangid
-- 👨‍💻 Frontend Developer & ...
-- Digital Concept Artist ...
-- 💞️ I’m looking for collaborations and making products ...
-- 📫 Contact - infovinodjangid@gmail.com
+<ul>
+  <li>👋 Hi, I’m Vinod Jangid ...</li>
+  <li>👨‍💻 Frontend Developer & ...</li>
+  <li>Digital Concept Artist ...</li>
+  <li>💞️ I’m looking for collaborations and making products ...</li>
+</ul>
 
-<!---
-vinodjangid07/VinodJangid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1>Contact Me</h1>
+<ul>
+  <li>👉 infovinodjangid@gmail.com</li>
+  <li>👉 <a href="https://www.linkedin.com/in/vinod-jangid-b401111a1/">Linkdin</a></li>
+  <li>👉 <a href="https://www.instagram.com/its_.me._vinod/" >Instagram</a></li>
+</ul>
