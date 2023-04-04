@@ -12,7 +12,7 @@
 
 <h1>Contact Me</h1>
 <ul>
-  <li>👉 infovinodjangid@gmail.com</li>
+  <li>👉 <a href="mailto:infovinodjangid@gmail.com">infovinodjangid@gmail.com</a></li>
   <li>👉 <a href="https://www.linkedin.com/in/vinod-jangid-b401111a1/">Linkdin</a></li>
   <li>👉 <a href="https://www.instagram.com/its_.me._vinod/" >Instagram</a></li>
 </ul>
