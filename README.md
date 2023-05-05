@@ -18,4 +18,5 @@
   <li>👨‍💻 Frontend Developer & ...</li>
   <li>Digital Concept Artist ...</li>
   <li>💞️ I’m looking for collaborations and making products ...</li>
+  <li>Visit  <a href="https://vinodjangid.me/">Portfolio</a> to know more about me ...</li>
 </ul>
