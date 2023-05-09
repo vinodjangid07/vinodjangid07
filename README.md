@@ -22,4 +22,12 @@
   <li>💞️ I’m looking for collaborations and making products ...</li>
   <li>Visit  <a href="https://vinodjangid.me/">Portfolio</a> to know more about me ...</li>
 </ul>
+<br>
+<br>
+<h2> My GitHub stats and contributions: </h2>
+<p ><img width = 40% src="https://github-readme-stats.vercel.app/api?username=vinodjangid07&show_icons=true&theme=tokyonight" alt="" >
+ <br>
+ <br>
+<img width = 40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinodjangid07&layout=compact&theme=tokyonight" alt="" ></p>
+
 
