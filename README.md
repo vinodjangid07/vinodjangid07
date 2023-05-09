@@ -1,6 +1,4 @@
 
-<p align="center" width="100%"><img src="https://user-images.githubusercontent.com/86096184/237026554-664ca31c-2ee9-4778-9bad-8a53fbd573b5.png" alt="" ></p>
-
 
 
 <p align="center"><img src="https://user-images.githubusercontent.com/86096184/229715500-af59bb7f-0952-4a11-83c8-8ca3efd6ea61.png" alt="" ></p>
@@ -25,4 +23,3 @@
   <li>Visit  <a href="https://vinodjangid.me/">Portfolio</a> to know more about me ...</li>
 </ul>
 
-<p align="center" width="100%"><img src="https://user-images.githubusercontent.com/86096184/237026729-eca149b9-1abd-4056-9262-4e7ac5d89551.png" alt="" ></p>
