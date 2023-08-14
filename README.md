@@ -12,7 +12,7 @@
  <a href="https://uiverse.io/profile/vinodjangid07" ><img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/2da79156-d54e-4867-8f02-cea181ff326b" alt="Uiverse" height="50"></a>
 </p>
 <h2 align="center">
-  ⚡ <a href="https:vinodjangid.me" target="_blank">www.vinodjangid.me</a> ⚡
+  ⚡ <a href="https://vinodjangid.me" target="_blank">www.vinodjangid.me</a> ⚡
   <br><br>
 </h2>
 <br>
