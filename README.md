@@ -1,6 +1,8 @@
 
 
 
+
+<p align="center"><img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/fdcd1f9c-22a8-45a8-b586-072c6ef901f5" alt="" ></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/86096184/229715500-af59bb7f-0952-4a11-83c8-8ca3efd6ea61.png" alt="" ></p>
 <h1 align="center">Hi there 👋 I'm Vinod.</h1>
 <p align="center">"Learning, Living, and Leveling up."</p>
