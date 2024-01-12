@@ -2,7 +2,7 @@
 
 
 
-<p align="center"><img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/1fb06f85-dbb2-414b-937e-26be2f206230" alt="" height="150"></p>
+<p align="center"><img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/1fb06f85-dbb2-414b-937e-26be2f206230" alt="" height="100"></p>
 
 
 <h1 align="center">Hi there 👋 I'm Vinod.</h1>
