@@ -2,7 +2,8 @@
 
 
 
-<p align="center"><img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/fdcd1f9c-22a8-45a8-b586-072c6ef901f5" alt="" height="65"></p>
+<p align="center"><img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/1fb06f85-dbb2-414b-937e-26be2f206230" alt="" height="150"></p>
+
 
 <h1 align="center">Hi there 👋 I'm Vinod.</h1>
 <p align="center">"Learning, Living, and Leveling up."</p>
