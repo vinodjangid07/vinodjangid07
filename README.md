@@ -38,6 +38,10 @@
 <br>
 <br>
 <h2>GitHub Stats:</h2>
+
+
+![](https://komarev.com/ghpvc/?username=your-github-vinodjangid07&color=blueviolet)
+
 <p ><img width = 40% src="https://github-readme-stats.vercel.app/api?username=vinodjangid07&show_icons=true&theme=tokyonight" alt="" >
  <br>
  <br>
