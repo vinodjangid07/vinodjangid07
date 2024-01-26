@@ -37,14 +37,21 @@
 </ul>
 <br>
 <br>
-<h2>GitHub Stats:</h2>
+
+# 📊 GitHub Stats:
 
 
 ![](https://komarev.com/ghpvc/?username=your-github-vinodjangid07&color=blueviolet)
 
-<p ><img width = 40% src="https://github-readme-stats.vercel.app/api?username=vinodjangid07&show_icons=true&theme=tokyonight" alt="" >
- <br>
- <br>
-<img width = 40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinodjangid07&layout=compact&theme=tokyonight" alt="" ></p>
 
+ ![](https://github-readme-stats.vercel.app/api?username=vinodjangid07&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=vinodjangid07&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinodjangid07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=vinodjangid07&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=vinodjangid07&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
