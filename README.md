@@ -19,7 +19,7 @@
 
 
 <h2 align="center">
-  ⚡ <a href="https://vinodjangid.me" target="_blank">www.vinodjangid.me</a> ⚡
+  ⚡ <a href="http://vinodjangid.site" target="_blank">www.vinodjangid.site</a> ⚡
   <br><br>
 </h2>
 <br>
