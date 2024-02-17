@@ -1,7 +1,4 @@
-<p align="center"><img align="center" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/b4843770-544b-4956-9d95-6c71cb5cfd3e" width="200px"></p>
-
-
-
+<p align="center"><img align="center" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/80c5f1d3-51b2-4467-9ae8-694c90ed16ae" width="200px"></p>
 
 
 <p align="center">"Learning, Living, and Leveling up."</p>
