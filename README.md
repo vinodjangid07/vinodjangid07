@@ -56,10 +56,7 @@
 <img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/41752fdd-f8ad-4e92-b263-779fe928da92" alt="C" height="50" title="C">
 <img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/086f2661-6998-4569-8c35-852c4254c53a" alt="CPP" height="50" title="C++">
 
-<br><br><br>
-
-
-
+<br><br>
 <img align="left" width="156" alt="Frame 23" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/398dfbb4-ca41-4b39-98ba-76f03ca76bbe">
 <br><br><br>
 
