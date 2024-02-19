@@ -16,8 +16,8 @@
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;💞️ I’m looking for collaborations and making products ...</li>
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;Visit  <a href="https://vinodjangid.me/" target="_blank">Portfolio</a> to know more about me ...</li>
 </ul>
-<br><br><br>
-<br>
+<br><br><br><br>
+
 <p align="left"><img width="117" alt="Frame 24" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/158da9ba-20f0-4c25-bd56-55e5d4c630d0"></p>
 <br>
 
