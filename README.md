@@ -4,6 +4,7 @@
 
 <a href="https://vinodjangid07.github.io/" align="left"><img align="left" width="122" alt="Frame 21" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/fc2c1204-e65d-442c-b3b2-c640474b91d6"></a>
 <br><br>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=vinodjangid07&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/vinodjangid07)
 <p align="left"><img align="left" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/80c5f1d3-51b2-4467-9ae8-694c90ed16ae" width="200px"></p>
 <ul align="right">
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👋 Hi, I’m A ...</li>
@@ -64,12 +65,13 @@
 <img align="left" width="156" alt="Frame 23" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/398dfbb4-ca41-4b39-98ba-76f03ca76bbe">
 
 <br><br>
-
+  
 ![](https://komarev.com/ghpvc/?username=your-github-vinodjangid07&color=blueviolet)
 
 ![](https://github-readme-stats.vercel.app/api?username=vinodjangid07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinodjangid07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vinodjangid07&limit=5&theme=dark&combine_all_yearly_contributions=true)
