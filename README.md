@@ -11,7 +11,7 @@
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Frontend Developer & ...</li>
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Digital Concept Artist ...</li>
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;💞️ I’m looking for collaborations and making products ...</li>
-  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;Visit  <a href="https://vinodjangid.netlify.app/" target="_blank">Portfolio</a> to know more about me ...</li>
+  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;Visit  <a href="https://www.vinodjangid.site/" target="_blank">Portfolio</a> to know more about me ...</li>
 </ul>
 <br><br><br><br>
 
@@ -29,7 +29,7 @@
  <a href="https://www.instagram.com/pexel_ui/" target="_blank"><img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/1de75b52-f87e-4394-975f-755b198d3536" alt="Instagram" height="50" title="Instagram"></a>
   <a href="https://uiverse.io/profile/vinodjangid07" target="_blank"><img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/b07ceafc-8cc1-4e4d-a5b4-e1846c40f0c2" alt="uiverse" height="50" title="Uiverse"></a>
  <a href="https://codepen.io/vinodjangid07" target="_blank"><img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/85960e4e-546e-4b2e-a2f5-0b7ae0a2e15d" alt="Codepen" height="50" title="Codepen"></a>
- <a href="https://vinodjangid.netlify.app/" target="_blank"><img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/3a2a0e30-8369-4f1a-9788-95fa30ac2f36" alt="Portfolio" height="50" title="Portfolio"></a>
+ <a href="https://www.vinodjangid.site/" target="_blank"><img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/3a2a0e30-8369-4f1a-9788-95fa30ac2f36" alt="Portfolio" height="50" title="Portfolio"></a>
 </p>
 <br>
 
