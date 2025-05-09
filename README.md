@@ -41,9 +41,11 @@
 <img src="https://github.com/user-attachments/assets/ae704064-27be-496c-b887-77306f2a01f7" alt="ASTRO" height="50" title="ASTRO">
 <img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/821e31cf-ac55-411b-8972-fc64a5485612" alt="REACT" height="50" title="REACT">
 <img src="https://github.com/user-attachments/assets/6ab6adb0-57c3-48d0-bc4f-c3d376438674" alt="NEXTJS" height="50" title="NEXTJS">
-
 <img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/e82354f3-ed3d-408b-8738-30d4c518610b" alt="NODEJS" height="50" title="NODE JS">
 
+<br>
+<img src="https://github.com/user-attachments/assets/d6449419-4111-4ca1-9602-d249de60a2dd" alt="CONTENTFUL" height="50" title="CONTENTFULCMS">
+<img src="https://github.com/user-attachments/assets/6a631a5e-57ea-4836-93fa-ed0582fd2d7d" alt="TINACMS" height="50" title="TINACMS">
 
 <br>
 <img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/8b59783d-a52c-4be4-9f00-f791057d4e0b" alt="FIGMA" height="50" title="FIGMA">
