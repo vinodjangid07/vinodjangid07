@@ -49,19 +49,10 @@
 <br>
 <img src="https://github.com/user-attachments/assets/d6449419-4111-4ca1-9602-d249de60a2dd" alt="CONTENTFUL" height="50" title="CONTENTFULCMS">
 <img src="https://github.com/user-attachments/assets/6a631a5e-57ea-4836-93fa-ed0582fd2d7d" alt="TINACMS" height="50" title="TINACMS">
-
-<br>
 <img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/8b59783d-a52c-4be4-9f00-f791057d4e0b" alt="FIGMA" height="50" title="FIGMA">
-<img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/24d19823-001d-4c8a-bb35-d0e3b3bfc433" alt="PS" height="50" title="PHOTOSHOP">
-<img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/8364f96d-fbf3-46ae-a874-2ac7033f5a16" alt="AI" height="50" title="ADOBE ILLUSTRATOR">
-
-<br>
 <img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/bd7bc243-8e54-4a12-97b7-593e4b860bc4" alt="GITHUB" height="50" title="GITHUB">
 <img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/259907ba-c4ff-4fa3-9d49-6827409fcd4b" alt="GIT" height="50" title="GIT">
 <img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/0fdebf20-d402-42ae-bc7d-5650a5ddc0fb" alt="NETLIFY" height="50" title="NETLIFY">
-<br>
-<img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/41752fdd-f8ad-4e92-b263-779fe928da92" alt="C" height="50" title="C">
-<img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/086f2661-6998-4569-8c35-852c4254c53a" alt="CPP" height="50" title="C++">
 
 <br><br>
 <img width="150" alt="SUPPORTMe 21" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/d2bd3af3-a9c0-404c-8f98-97704b39a19c">
